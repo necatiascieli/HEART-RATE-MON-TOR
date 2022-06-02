@@ -17,11 +17,11 @@ Heart rate, which is important to control in every part of our lives, is one of 
 In this project, I designed a heart rate monitor for the players of Manchester City, one of the Premier League teams. In this way, the heart rhythm data of the players will be easily examined by the medical team working at the club and they will be able to make an early diagnosis in case of a contrary situation.
 
 ## 1)USED MATERIALS
-**.** **1x Arduino Uno**
+**-** **1x Arduino Uno**
 
-**.** **1x KY-039 HEARTBEAT SENSOR**	
+**-** **1x KY-039 HEARTBEAT SENSOR**	
 
-**.** **3x Jumper Cables**
+**-** **3x Jumper Cables**
 
 
 
