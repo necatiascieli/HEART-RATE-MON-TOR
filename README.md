@@ -21,9 +21,7 @@ In this project, I designed a heart rate monitor for the players of Manchester C
 **.** **1x KY-039 HEARTBEAT SENSOR**	
 **.** **3x Jumper Cables**
 
-![arduino uno](https://www.direnc.net/arduino-uno-r3-smd-arduino-ana-board-china-36886-17-B.jpg)
-![ky-03](https://st1.myideasoft.com/idea/dz/31/myassets/products/629/robitshop-parmaknabiz-1.jpg?revision=1612995787)
-![jumper cables](https://www.okulstore.com/ProductImages/102214/big/jumper_kablo_erkek_erkek.jpg)
+
 
 ## 2)WHAT IS THE KY-039 / HEARTBEAT SENSOR
 The KY-039 heartbeat sensor is designed to detect a pulse while a human finger is place between the infrared diode and the photo transistor.  The pulse will be represented on the signal output pin.
